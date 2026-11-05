@@ -1,0 +1,6 @@
+Jim 2.4
+Jon 3.4
+Jack 4.0
+Jill 3.2
+James 1.5
+Bob 3.0
